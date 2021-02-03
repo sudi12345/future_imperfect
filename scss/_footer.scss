@@ -1,0 +1,22 @@
+.fotter{
+	padding: 20px;
+	border-top: 1px solid $border-color;
+
+span{
+	font-size:10px;
+	color: $border-color;
+
+
+a{
+	color: gray;
+	text-decoration: none;
+	border-bottom: 1px dotted $border-color;
+}
+}
+
+}
+
+.icon-fotter a i{
+	padding: 30px 10px 30px 10px;
+	color: $border-color;
+} 

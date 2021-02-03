@@ -1,0 +1,19 @@
+.header{
+	background-color: white;
+	position: sticky;
+	border-bottom: 1px solid $border-color;
+}
+.navbar-brand{
+	padding-left: 20px;
+	text-transform:uppercase;
+}
+.navbar-nav li{
+	padding-left: 12px;
+	text-transform:uppercase;
+
+ a{
+	color: black;
+	padding: 15px;    
+}
+
+}
